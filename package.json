@@ -1,0 +1,27 @@
+{
+  "name": "async-range",
+  "version": "1.0.0",
+  "description": "Asynchronously process a range of numbers",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/async-range.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mvhenten/async-range.git"
+  },
+  "keywords": [
+    "async",
+    "range"
+  ],
+  "author": "Matthijs van Henten",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mvhenten/async-range/issues"
+  },
+  "homepage": "https://github.com/mvhenten/async-range#readme",
+  "devDependencies": {
+    "lodash": "^4.0.0",
+    "tape": "^4.4.0"
+  }
+}
