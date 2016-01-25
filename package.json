@@ -1,6 +1,6 @@
 {
   "name": "async-range",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Asynchronously process a range of numbers",
   "main": "index.js",
   "scripts": {
@@ -23,5 +23,8 @@
   "devDependencies": {
     "lodash": "^4.0.0",
     "tape": "^4.4.0"
+  },
+  "dependencies": {
+    "sliced": "^1.0.1"
   }
 }
